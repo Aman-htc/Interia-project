@@ -24,3 +24,18 @@
             background-color: blue;
         }
     }
+
+@media (max-width:768px) {
+    
+        .copy-right{
+            .order2{
+                order: 2;
+            }
+            .order1{
+                order: 1;
+            }
+        }
+    
+
+    
+}    
